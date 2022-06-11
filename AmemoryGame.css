@@ -1,0 +1,10 @@
+#grid{
+    display:inline-block;
+    width: 380px;
+    height: 600px;
+    flex-wrap: wrap;
+    
+    
+    
+    /*height: 137px;*/
+}
